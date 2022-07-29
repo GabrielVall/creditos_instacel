@@ -11,7 +11,7 @@ class SQLConexion{
 	
 	
     private $server='localhost';
-    private $usuario='root';
+    private $usuario='admininstacel_instacel_root';
     private $clave='q.)gtc}SQ;F}';
     private $bd='admininstacel_instacel';
 	
